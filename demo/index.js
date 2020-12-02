@@ -13,9 +13,15 @@ app.use(express.static("public"))
 
 io.on("connection", socket => {
 	console.log("a client has connected")
-	socket.on("send ICE candidate", offer => {
+
+	socket.on("send ICE candidate", candidate => {
 		console.log("ICE candidate received")
-		socket.broadcast.emit("receive ICE candidate", offer)
+		socket.broadcast.emit("receive ICE candidate", candidate)
+	})
+
+	socket.on("send SDP", description => {
+		console.log("SDP received")
+		socket.broadcast.emit("receive SDP", description)
 	})
 })
 http.listen(PORT, () => {
