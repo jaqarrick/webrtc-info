@@ -2,6 +2,8 @@
 
 _This repo serves as an in-depth explanation of Web RTC._
 
+To see webRTC in action, navigate to the [demo](https://github.com/jaqarrick/webrtc-info/tree/main/demo) folder and follow along with the enclosed [readme](https://github.com/jaqarrick/webrtc-info/blob/main/demo/readme.md).
+
 ## Overview
 
 Web RTC stands for Web Real-Time Communication. It standardizes and simplifies a method for two or more peers to communicate with directly with each other in an efficient and low latency manner.
@@ -178,4 +180,4 @@ A method to send SDP to another party or client that we want to communicate with
 
 ## Attribution
 
-This guide draws heavily from Hussein Nasser's [WebRTC crash course](https://www.youtube.com/watch?v=FExZvpVvYxA) and the WebRTC [codelab tutorial](https://codelabs.developers.google.com/codelabs/webrtc-web/#0). The images are sourced from the Wikimedia Commons and licenced under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+This guide draws heavily from Hussein Nasser's [WebRTC crash course](https://www.youtube.com/watch?v=FExZvpVvYxA). The demo uses code examples from Baeldung's [Guide to WebRTC](https://www.baeldung.com/webrtc) and ScaleDrone's [WebRTC Tutorial](https://www.scaledrone.com/blog/webrtc-tutorial-simple-video-chat/). The images are sourced from the Wikimedia Commons and licenced under the Creative Commons Attribution-Share Alike 3.0 Unported license.
