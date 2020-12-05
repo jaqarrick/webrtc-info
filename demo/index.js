@@ -1,10 +1,7 @@
 const express = require("express")
 const app = express()
-
 const http = require("http").Server(app)
-
 const io = require("socket.io")(http)
-
 const normalizePort = port => parseInt(port, 10)
 const PORT = normalizePort(process.env.PORT || 5000)
 const dev = app.get("env") !== "production"
@@ -19,9 +16,14 @@ io.on("connection", socket => {
 		socket.broadcast.emit("receive ICE candidate", candidate)
 	})
 
-	socket.on("send SDP", description => {
+	socket.on("send offer", description => {
 		console.log("SDP received")
-		socket.broadcast.emit("receive SDP", description)
+		socket.broadcast.emit("receive offer", description)
+	})
+
+	socket.on("send answer", answer => {
+		console.log("SDP answer received")
+		socket.broadcast.emit("receive answer", answer)
 	})
 })
 http.listen(PORT, () => {

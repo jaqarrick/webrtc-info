@@ -3,12 +3,81 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<style>
+			html {
+				background-color: rgb(6, 6, 85);
+				font-family: Verdana, Geneva, Tahoma, sans-serif;
+			}
+
+			body {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+			}
+
+			#video-wrapper {
+				width: 100vw;
+				height: 300px;
+				display: flex;
+				justify-content: space-evenly;
+			}
+			.video-container {
+				min-width: 200px;
+				max-width: 200px;
+				max-height: 180px;
+				min-height: 150px;
+				height: auto;
+				border: dotted white 5px;
+				box-sizing: content-box;
+				margin: 2rem;
+			}
+			video {
+				filter: grayscale(100%) contrast(150%) invert(40%);
+				height: 100%;
+				width: 100%;
+			}
+
+			button {
+				height: 40px;
+				width: 160px;
+				border: groove white 2px;
+				color: white;
+				background-color: rgb(6, 6, 85);
+				box-sizing: border-box;
+			}
+			button:hover {
+				color: rgb(6, 6, 85);
+				background-color: white;
+			}
+
+			input {
+				height: 40px;
+				box-sizing: border-box;
+			}
+
+			.inactive {
+				cursor: not-allowed;
+				opacity: 0.2;
+			}
+		</style>
 		<title>Web RTC Guide</title>
 	</head>
 	<body>
-		<div id="video-container"></div>
-		<button id="init-connection">init connection</button>
+		<div id="video-wrapper"></div>
+		<div id="controls">
+			<button id="init-video">start video</button>
+			<!-- <input
+				type="text"
+				placeholder="Paste the ID of the peer you want to call"
+			/> -->
+			<button class="inactive" id="init-call">start call</button>
+			<button class="inactive" id="hangup">hangup</button>
+		</div>
+
 		<script src="/socket.io/socket.io.js"></script>
+		<script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
+
 		<script src="js/main.js"></script>
 	</body>
 </html>

@@ -135,9 +135,9 @@ TURN is used in the case of Symmetric NAT, which is a server that relays packets
 - Usually runs on port 3478, or 5349 for TLS
 - It's expensive to maintain and run.
 
-### ICE (Interactive Connectivity Establishment)
+### [ICE](https://developer.mozilla.org/en-US/docs/Web/API/RTCIceCandidate) (Interactive Connectivity Establishment)
 
-A protocol that collects all available candidates (local IP addresses, reflexive addresses - STUN/TURN), which are called ICE candidates. All the collected are sent to remote peer via SDP.
+A protocol that collects all available candidates (local IP addresses, reflexive addresses - STUN/TURN), which are called ICE candidates. All the collected are sent to remote peer via SDP. When starting a WebRTC peer connection, typically a number of candidates are proposed by each end of the connection, until they mutually agree upon one which describes the connection they decide will be best. WebRTC then uses that candidate's details to initiate the connection.
 
 ### SDP (Session Description Protocol)
 
@@ -180,4 +180,4 @@ A method to send SDP to another party or client that we want to communicate with
 
 ## Attribution
 
-This guide draws heavily from Hussein Nasser's [WebRTC crash course](https://www.youtube.com/watch?v=FExZvpVvYxA). The demo uses code examples from Baeldung's [Guide to WebRTC](https://www.baeldung.com/webrtc) and ScaleDrone's [WebRTC Tutorial](https://www.scaledrone.com/blog/webrtc-tutorial-simple-video-chat/). The images are sourced from the Wikimedia Commons and licenced under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+This guide draws heavily from Hussein Nasser's [WebRTC crash course](https://www.youtube.com/watch?v=FExZvpVvYxA). The demo loosely follows examples from Baeldung's [Guide to WebRTC](https://www.baeldung.com/webrtc), Google's webRTC [codelab](https://codelabs.developers.google.com/codelabs/webrtc-web), and ScaleDrone's [WebRTC Tutorial](https://www.scaledrone.com/blog/webrtc-tutorial-simple-video-chat/). The images are sourced from the Wikimedia Commons and licenced under the Creative Commons Attribution-Share Alike 3.0 Unported license.
