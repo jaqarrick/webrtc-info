@@ -1,5 +1,7 @@
 # WebRTC Demo
 
+### [Try it out here!](https://webrtc-info.herokuapp.com/)
+
 ### Get started
 
 To open and start the webRTC demo first clone the enclosing git repo:
