@@ -6,7 +6,7 @@ To see webRTC in action, navigate to the [demo](https://github.com/jaqarrick/web
 
 ## Overview
 
-Web RTC stands for Web Real-Time Communication. It standardizes and simplifies a method for two or more peers to communicate with directly with each other in an efficient and low latency manner.
+Web RTC stands for Web Real-Time Communication. It standardizes and simplifies a method for two or more peers to communicate directly with each other in an efficient and low latency manner.
 
 **How does it work?**
 
