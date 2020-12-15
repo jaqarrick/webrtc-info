@@ -11,8 +11,8 @@ Web RTC stands for Web Real-Time Communication. It standardizes and simplifies a
 **How does it work?**
 
 1. PeerA wants to Connect to PeerB
-2. PeerA finds out all possible ways the public can connect to it
-3. PeerB finds out all possible ways the public can connect to it
+2. PeerA finds out all possible ways the public can connect to it (ICE Candidates)
+3. PeerB finds out all possible ways the public can connect to it (ICE Candidates)
 4. PeerA and PeerB signal this session information (SDP/Session Description Protocol) via other means (through something like WebSockets, HTTP Fetch, etc.)
 5. PeerA connects to PeerB via the most optimal path
 6. PeerA & PeerB also exchange supported media and security
@@ -130,14 +130,16 @@ If two peers both receive public IP/Port from STUN server and try to connect, th
 
 ### TURN (Traversal Using Relays around NAT)
 
-TURN is used in the case of Symmetric NAT, which is a server that relays packets.
+TURN is used in the case of Symmetric NAT, which is a server that relays packets. TURN servers are necessary when a client's networks ports live behind a firewal or a client's NAT methods are symmetric. 
 
 - Usually runs on port 3478, or 5349 for TLS
 - It's expensive to maintain and run.
+- TURN servers are available online, both as self-hosted apps (see the [COTURN project](https://github.com/coturn/coturn)) and as cloud provided services. 
+
 
 ### [ICE](https://developer.mozilla.org/en-US/docs/Web/API/RTCIceCandidate) (Interactive Connectivity Establishment)
 
-A protocol that collects all available candidates (local IP addresses, reflexive addresses - STUN/TURN), which are called ICE candidates. All the collected are sent to remote peer via SDP. When starting a WebRTC peer connection, typically a number of candidates are proposed by each end of the connection, until they mutually agree upon one which describes the connection they decide will be best. WebRTC then uses that candidate's details to initiate the connection.
+A protocol that collects all available candidates (local IP addresses, reflexive addresses - STUN/TURN), which are called ICE candidates. All the collected candidates are sent to remote peer via SDP. When starting a WebRTC peer connection, typically a number of candidates are proposed by each end of the connection, until they mutually agree upon one which describes the connection they decide will be best. WebRTC then uses that candidate's details to initiate the connection.
 
 ### SDP (Session Description Protocol)
 
@@ -176,7 +178,9 @@ Session description
 
 ### Signaling
 
-A method to send SDP to another party or client that we want to communicate with.
+A method to send SDP and ICE candidates to another party or client that we want to communicate with. Before a P2P connection is established, signaling servers relay the information for both clients to connect to eachother. 
+
+Signaling can occur through a variety of methods. In the demo, the signaling occurs with a simple socket.io server. 
 
 ## Attribution
 
