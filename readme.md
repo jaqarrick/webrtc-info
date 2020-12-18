@@ -130,12 +130,11 @@ If two peers both receive public IP/Port from STUN server and try to connect, th
 
 ### TURN (Traversal Using Relays around NAT)
 
-TURN is used in the case of Symmetric NAT, which is a server that relays packets. TURN servers are necessary when a client's networks ports live behind a firewal or a client's NAT methods are symmetric. 
+TURN is used in the case of Symmetric NAT, which is a server that relays packets. TURN servers are necessary when a client's networks ports live behind a firewal or a client's NAT methods are symmetric.
 
 - Usually runs on port 3478, or 5349 for TLS
 - It's expensive to maintain and run.
-- TURN servers are available online, both as self-hosted apps (see the [COTURN project](https://github.com/coturn/coturn)) and as cloud provided services. 
-
+- TURN servers are available online, both as self-hosted apps (see the [COTURN project](https://github.com/coturn/coturn)) and as cloud provided services.
 
 ### [ICE](https://developer.mozilla.org/en-US/docs/Web/API/RTCIceCandidate) (Interactive Connectivity Establishment)
 
@@ -178,10 +177,20 @@ Session description
 
 ### Signaling
 
-A method to send SDP and ICE candidates to another party or client that we want to communicate with. Before a P2P connection is established, signaling servers relay the information for both clients to connect to eachother. 
+A method to send SDP and ICE candidates to another party or client that we want to communicate with. Before a P2P connection is established, signaling servers relay the information for both clients to connect to eachother.
 
-Signaling can occur through a variety of methods. In the demo, the signaling occurs with a simple socket.io server. 
+Signaling can occur through a variety of methods. In the demo, the signaling occurs with a simple socket.io server.
+
+## Lifecycle of a WEBRTC Connection
+
+![WEBRTC_Lifecycle](images/WebRTC_Signaling_Diagram.svg)
+_sourced from MDN's webRTC docs_
+
+#### _ICE Candidate Exchange_
+
+![ICE Candidate Exchange](images/ICE_Candidate_Exchange.svg)
+_sourced from MDN's webRTC docs_
 
 ## Attribution
 
-This guide draws heavily from Hussein Nasser's [WebRTC crash course](https://www.youtube.com/watch?v=FExZvpVvYxA). The demo loosely follows examples from Baeldung's [Guide to WebRTC](https://www.baeldung.com/webrtc), Google's webRTC [codelab](https://codelabs.developers.google.com/codelabs/webrtc-web), and ScaleDrone's [WebRTC Tutorial](https://www.scaledrone.com/blog/webrtc-tutorial-simple-video-chat/). The images are sourced from the Wikimedia Commons and licenced under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+This guide draws heavily from Hussein Nasser's [WebRTC crash course](https://www.youtube.com/watch?v=FExZvpVvYxA), Justin Uberti and Sam Dutton's presentation [Real-time Communication with WebRTC](https://youtu.be/p2HzZkd2A40), and the [MDN WebRTC Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API). The demo loosely follows examples from Baeldung's [Guide to WebRTC](https://www.baeldung.com/webrtc), Google's webRTC [codelab](https://codelabs.developers.google.com/codelabs/webrtc-web), and ScaleDrone's [WebRTC Tutorial](https://www.scaledrone.com/blog/webrtc-tutorial-simple-video-chat/). The NAT diagrams are sourced from the Wikimedia Commons and licenced under the Creative Commons Attribution-Share Alike 3.0 Unported license.

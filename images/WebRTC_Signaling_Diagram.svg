@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="17.5 8.5 901 1117" width="901" height="1117">
+  <defs>
+    <font-face font-family="Open Sans" font-size="20" panose-1="2 11 8 6 3 5 4 2 2 4" units-per-em="1000" underline-position="-75.19531" underline-thickness="49.80469" slope="0" x-height="545.89844" cap-height="713.8672" ascent="1068.8477" descent="-292.96875" font-weight="700">
+      <font-face-src>
+        <font-face-name name="OpenSans-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Open Sans" font-size="16" panose-1="2 11 7 6 3 8 4 2 2 4" units-per-em="1000" underline-position="-75.19531" underline-thickness="49.80469" slope="0" x-height="540.03906" cap-height="713.8672" ascent="1068.8477" descent="-292.96875" font-weight="600">
+      <font-face-src>
+        <font-face-name name="OpenSans-Semibold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Open Sans" font-size="10" panose-1="2 11 6 6 3 5 4 2 2 4" units-per-em="1000" underline-position="-75.19531" underline-thickness="49.80469" slope="0" x-height="535.15625" cap-height="713.8672" ascent="1068.8477" descent="-292.96875" font-weight="400">
+      <font-face-src>
+        <font-face-name name="OpenSans"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Courier" font-size="10" units-per-em="1000" underline-position="-178.22266" underline-thickness="57.61719" slope="0" x-height="456.54297" cap-height="586.91406" ascent="753.90625" descent="-246.09375" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Courier"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Courier" font-size="7" units-per-em="1000" underline-position="-178.22266" underline-thickness="57.61719" slope="0" x-height="456.54297" cap-height="586.91406" ascent="753.90625" descent="-246.09375" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Courier"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="10" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8 
+    <dc:date>2016-01-27 19:10:24 +0000</dc:date>
+  </metadata>
+  <g id="Main_Event_Flow" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Main Event Flow</title>
+    <g id="Main_Event_Flow: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_180">
+        <g id="Group_240">
+          <g id="Graphic_246">
+            <rect x="18" y="81.16511" width="360" height="1043.8349" fill="#887ee3" fill-opacity=".5"/>
+            <rect x="18" y="81.16511" width="360" height="1043.8349" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_245">
+            <rect x="558" y="81.16511" width="360" height="1043.8349" fill="#71dcba" fill-opacity=".5"/>
+            <rect x="558" y="81.16511" width="360" height="1043.8349" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_244">
+            <rect x="378" y="81.16511" width="180" height="1043.8349" fill="#cb965c" fill-opacity=".5"/>
+            <rect x="378" y="81.16511" width="180" height="1043.8349" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_243">
+            <rect x="558" y="9" width="360" height="72.16511" fill="#71dcba" fill-opacity=".5"/>
+            <rect x="558" y="9" width="360" height="72.16511" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(563 31.582557)" fill="black">
+              <tspan font-family="Open Sans" font-size="20" font-weight="700" fill="black" x="109.69238" y="21">Priya (Callee)</tspan>
+            </text>
+          </g>
+          <g id="Graphic_242">
+            <rect x="378" y="9" width="180" height="72.16511" fill="#cb965c" fill-opacity=".5"/>
+            <rect x="378" y="9" width="180" height="72.16511" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(383 31.582557)" fill="black">
+              <tspan font-family="Open Sans" font-size="20" font-weight="700" fill="black" x="5.161133" y="21">Signaling Server</tspan>
+            </text>
+          </g>
+          <g id="Graphic_241">
+            <rect x="18" y="9" width="360" height="72.16511" fill="#887ee3" fill-opacity=".5"/>
+            <rect x="18" y="9" width="360" height="72.16511" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(23 31.582557)" fill="black">
+              <tspan font-family="Open Sans" font-size="20" font-weight="700" fill="black" x="103.42773" y="21">Naomi (Caller)</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Graphic_239">
+          <rect x="558" y="108" width="180" height="1017" fill="white" fill-opacity=".503448"/>
+          <rect x="558" y="108" width="180" height="1017" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_238">
+          <rect x="18" y="81" width="180" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(23 86)" fill="black">
+            <tspan font-family="Open Sans" font-size="16" font-weight="600" fill="black" x="50.66406" y="17">Web App</tspan>
+          </text>
+        </g>
+        <g id="Graphic_237">
+          <rect x="558" y="81" width="180" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(563 86)" fill="black">
+            <tspan font-family="Open Sans" font-size="16" font-weight="600" fill="black" x="34.13672" y="17">Web Browser</tspan>
+          </text>
+        </g>
+        <g id="Graphic_236">
+          <rect x="738" y="81" width="180" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(743 86)" fill="black">
+            <tspan font-family="Open Sans" font-size="16" font-weight="600" fill="black" x="50.66406" y="17">Web App</tspan>
+          </text>
+        </g>
+        <g id="Group_232">
+          <g id="Graphic_234">
+            <rect x="36" y="144" width="144" height="180" fill="#d2ffff"/>
+            <rect x="36" y="144" width="144" height="180" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(41 149)" fill="black">
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="11">1.	Create an </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="24">RTCPeerConnection</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="37">2.	Call </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" y="37">getUserMedia()</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" y="37"> to </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="51">access the webcam and </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="65">microphone</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="79">3.	Promise fulfilled: add the </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="93">local stream’s tracks by </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="107">calling </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="120">RTCPeerConnection.ad</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="132">dTrack()</tspan>
+            </text>
+          </g>
+          <g id="Graphic_233">
+            <rect x="36" y="126" width="144" height="18" fill="#fff6d2"/>
+            <rect x="36" y="126" width="144" height="18" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(41 129)" fill="black">
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="42.996094" y="10">invite()</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Graphic_230">
+          <rect x="198" y="108" width="180" height="1017" fill="white" fill-opacity=".503448"/>
+          <rect x="198" y="108" width="180" height="1017" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_229">
+          <rect x="198" y="81" width="180" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(203 86)" fill="black">
+            <tspan font-family="Open Sans" font-size="16" font-weight="600" fill="black" x="34.13672" y="17">Web Browser</tspan>
+          </text>
+        </g>
+        <g id="Group_213">
+          <g id="Graphic_215">
+            <rect x="36" y="398.5" width="144" height="210" fill="#d2ffff"/>
+            <rect x="36" y="398.5" width="144" height="210" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(41 403.5)" fill="black">
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="11">1.	Create an SDP offer by </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="25">calling </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="38">RTCPeerConnection.cr</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="50">eateOffer()</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="63">3.	Promise fulfilled: set the </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="77">description of Naomi’s </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="91">end of the call by calling </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="104">RTCPeerConnection.se</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="116">tLocalDescription()</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="129">4.	Promise fulfilled: send the </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="143">offer through the </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="157">signaling server to Priya in </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="171">a message of type </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="184">“video-offer”</tspan>
+            </text>
+          </g>
+          <g id="Graphic_214">
+            <rect x="36" y="380.5" width="144" height="18" fill="#fff6d2"/>
+            <rect x="36" y="380.5" width="144" height="18" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(41 385.5)" fill="black">
+              <tspan font-family="Courier" font-size="7" font-weight="400" fill="black" x="3.989746" y="6">handleNegotiationNeededEvent()</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Line_210">
+          <line x1="180" y1="503.5" x2="386.10003" y2="503.9771" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_209">
+          <text transform="translate(225.50582 501.1649) rotate(.13262888)" fill="black">
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x=".44921875" y="11">Message: </tspan>
+            <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" y="11">“video-offer”</tspan>
+          </text>
+        </g>
+        <g id="Graphic_208">
+          <path d="M 234.77328 689.8007 C 211.5 684 220.7808 635.1678 257.90688 643.5 C 261.35136 627.2579 304.524 629.89416 304.24176 643.5 C 331.31232 626.09796 365.9069 660.7973 342.7027 678.1993 C 370.54656 686.6363 342.35136 732.0935 319.5 724.5 C 317.6712 737.1565 276.81984 741.5856 273.23424 724.5 C 250.10208 742.7466 201.86784 714.6914 234.77328 689.8007 Z" fill="#71dcba"/>
+          <path d="M 234.77328 689.8007 C 211.5 684 220.7808 635.1678 257.90688 643.5 C 261.35136 627.2579 304.524 629.89416 304.24176 643.5 C 331.31232 626.09796 365.9069 660.7973 342.7027 678.1993 C 370.54656 686.6363 342.35136 732.0935 319.5 724.5 C 317.6712 737.1565 276.81984 741.5856 273.23424 724.5 C 250.10208 742.7466 201.86784 714.6914 234.77328 689.8007 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(242.6 663)" fill="black">
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.939551" y="11">ICE layer starts </tspan>
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x=".34628906" y="25">sending candidates </tspan>
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="27.699805" y="39">to Priya</tspan>
+          </text>
+        </g>
+        <g id="Line_207">
+          <line x1="108" y1="608.5" x2="227.27566" y2="642.85186" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_204">
+          <g id="Graphic_206">
+            <rect x="756" y="513" width="144" height="496" fill="#d2ffff"/>
+            <rect x="756" y="513" width="144" height="496" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(761 518)" fill="black">
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="11">1.	Create an </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="24">RTCPeerConnection</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="37">2.	Create an </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="50">RTCSessionDescriptio</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="63">n</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" y="63"> using the received SDP </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="77">offer</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="91">3.	Call </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="104">RTCPeerConnection.se</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="117">tRemoteDescription()</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" y="117"> </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="131">to tell WebRTC about </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="145">Naomi’s configuration.</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="159">4.	Call </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" y="159">getUserMedia()</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" y="159"> to </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="173">access the webcam and </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="187">microphone</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="201">5.	Promise fulfilled: add the </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="215">local stream’s tracks by </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="229">calling </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="242">RTCPeerConnection.ad</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="254">dTrack()</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="267">6.	Promise fulfilled: call </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="280">RTCPeerConnection.cr</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="293">eateAnswer()</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" y="293"> to create </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="307">an SDP answer to send to </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="321">Naomi</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="335">7.	Promise fulfilled: </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="349">configure Priya’s end of </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="363">the connection by match </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="377">the generated answer by </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="391">calling </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="404">RTCPeerConnection.se</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="416">tLocalDescription()</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="429">8.	Promise fulfilled: send the </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="443">SDP answer through the </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="457">signaling server to Naomi </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="471">in a message of type </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="484">“video-answer”</tspan>
+            </text>
+          </g>
+          <g id="Graphic_205">
+            <rect x="756" y="495" width="144" height="18" fill="#fff6d2"/>
+            <rect x="756" y="495" width="144" height="18" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(761 498)" fill="black">
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="3.989746" y="10">handleVideoOfferMsg()</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Line_203">
+          <line x1="540" y1="504" x2="746.1" y2="504" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_202">
+          <text transform="translate(585.5 501.5596)" fill="black">
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x=".44921875" y="11">Message: </tspan>
+            <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" y="11">“video-offer”</tspan>
+          </text>
+        </g>
+        <g id="Line_201">
+          <line x1="756" y1="761" x2="549.89735" y2="756.2291" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_200">
+          <text transform="translate(582.574 754.5444) rotate(1.3260544)" fill="black">
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x=".44873047" y="11">Message: </tspan>
+            <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" y="11">“video-answer”</tspan>
+          </text>
+        </g>
+        <g id="Graphic_199">
+          <path d="M 594.7733 1058.8007 C 571.5 1053 580.7808 1004.1678 617.9069 1012.5 C 621.35136 996.2579 664.524 998.8942 664.24176 1012.5 C 691.3123 995.098 725.9069 1029.7973 702.7027 1047.1993 C 730.5466 1055.6363 702.3514 1101.0935 679.5 1093.5 C 677.6712 1106.1565 636.81984 1110.5856 633.23424 1093.5 C 610.1021 1111.7466 561.86784 1083.6914 594.7733 1058.8007 Z" fill="#887ee3"/>
+          <path d="M 594.7733 1058.8007 C 571.5 1053 580.7808 1004.1678 617.9069 1012.5 C 621.35136 996.2579 664.524 998.8942 664.24176 1012.5 C 691.3123 995.098 725.9069 1029.7973 702.7027 1047.1993 C 730.5466 1055.6363 702.3514 1101.0935 679.5 1093.5 C 677.6712 1106.1565 636.81984 1110.5856 633.23424 1093.5 C 610.1021 1111.7466 561.86784 1083.6914 594.7733 1058.8007 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(602.6 1032)" fill="black">
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.939551" y="11">ICE layer starts </tspan>
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x=".34628906" y="25">sending candidates </tspan>
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="23.830176" y="39">to Naomi</tspan>
+          </text>
+        </g>
+        <g id="Line_198">
+          <line x1="756" y1="1009" x2="718.5575" y2="1046.0378" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_195">
+          <g id="Graphic_197">
+            <rect x="36" y="765" width="144" height="188" fill="#d2ffff"/>
+            <rect x="36" y="765" width="144" height="188" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(41 770)" fill="black">
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="11">1.	Create an </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="24">RTCSessionDescriptio</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="37">n</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" y="37"> using the received SDP </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="51">answer</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="1" y="65">2.	Pass the session </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="79">description to </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="92">RTCPeerConnection.se</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="10.95" y="105">tRemoteDescription()</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" y="105"> </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="119">to configure Naomi’s </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="133">WebRTC layer to know </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="147">how Priya’s end of the </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="10.95" y="161">connection is configured</tspan>
+            </text>
+          </g>
+          <g id="Graphic_196">
+            <rect x="36" y="747" width="144" height="18" fill="#fff6d2"/>
+            <rect x="36" y="747" width="144" height="18" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(41 750)" fill="black">
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x=".9892578" y="10">handleVideoAnswerMsg()</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Line_194">
+          <line x1="396" y1="756" x2="189.9" y2="756" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_193">
+          <text transform="translate(224 753.5596)" fill="black">
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x=".19873047" y="11">Message: </tspan>
+            <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" y="11">“video-answer</tspan>
+            <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" y="11">”</tspan>
+          </text>
+        </g>
+        <g id="Group_184">
+          <g id="Graphic_186">
+            <rect x="396" y="513" width="144" height="66" fill="#d2ffff"/>
+            <rect x="396" y="513" width="144" height="66" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(401 518)" fill="black">
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="0" y="11">Receive</tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" y="11"> “video-offer” </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="0" y="25">message and forward it to </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="0" y="39">Priya</tspan>
+            </text>
+          </g>
+          <g id="Graphic_185">
+            <rect x="396" y="495" width="144" height="18" fill="#fff6d2"/>
+            <rect x="396" y="495" width="144" height="18" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(401 498)" fill="black">
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="30.99414" y="10">on.message()</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_181">
+          <g id="Graphic_183">
+            <rect x="396" y="765" width="144" height="66" fill="#d2ffff"/>
+            <rect x="396" y="765" width="144" height="66" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(401 770)" fill="black">
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="0" y="11">Receive </tspan>
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" y="11">“video-answer”</tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" y="11"> </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="0" y="25">message and forward it to </tspan>
+              <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="0" y="39">Naomi</tspan>
+            </text>
+          </g>
+          <g id="Graphic_182">
+            <rect x="396" y="747" width="144" height="18" fill="#fff6d2"/>
+            <rect x="396" y="747" width="144" height="18" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(401 750)" fill="black">
+              <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" x="30.99414" y="10">on.message()</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Line_258">
+        <line x1="288" y1="303.2016" x2="187.42325" y2="391.9498" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_259">
+        <text transform="translate(188.59696 387.14797) rotate(-41.42495)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x=".11669922" y="10">Event: </tspan>
+          <tspan font-family="Courier" font-size="10" font-weight="400" fill="black" y="10">negotiationneeded</tspan>
+        </text>
+      </g>
+      <g id="Graphic_260">
+        <path d="M 234.77328 257.80068 C 211.5 252 220.7808 203.1678 257.90688 211.5 C 261.35136 195.25788 304.524 197.89416 304.24176 211.5 C 331.31232 194.09796 365.9069 228.79728 342.7027 246.19932 C 370.54656 254.63628 342.35136 300.09348 319.5 292.5 C 317.6712 305.15652 276.81984 309.5856 273.23424 292.5 C 250.10208 310.7466 201.86784 282.69144 234.77328 257.80068 Z" fill="#71dcba"/>
+        <path d="M 234.77328 257.80068 C 211.5 252 220.7808 203.1678 257.90688 211.5 C 261.35136 195.25788 304.524 197.89416 304.24176 211.5 C 331.31232 194.09796 365.9069 228.79728 342.7027 246.19932 C 370.54656 254.63628 342.35136 300.09348 319.5 292.5 C 317.6712 305.15652 276.81984 309.5856 273.23424 292.5 C 250.10208 310.7466 201.86784 282.69144 234.77328 257.80068 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(242.6 231)" fill="black">
+          <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x=".5171875" y="11">Ready to negotiate, </tspan>
+          <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="2.0479492" y="25">so ask the caller to </tspan>
+          <tspan font-family="Open Sans" font-size="10" font-weight="400" fill="black" x="13.503027" y="39">start doing so</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
